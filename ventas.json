@@ -1,0 +1,7 @@
+[
+    {"id": 201, "id_producto": 101, "id_vendedor": 1, "total": 20100.00},
+    {"id": 202, "id_producto": 102, "id_vendedor": 2, "total": 3500.00},
+    {"id": 203, "id_producto": 103, "id_vendedor": 3, "total": 98700.00},
+    {"id": 204, "id_producto": 104, "id_vendedor": 4, "total": 214000.00}
+  ]
+  

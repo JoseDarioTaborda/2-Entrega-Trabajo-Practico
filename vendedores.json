@@ -1,0 +1,6 @@
+[
+    {"id": 1, "nombre": "Horacio", "apellido": "Gaitan", "puesto": "Vendedor"},
+    {"id": 2, "nombre": "Florencia", "apellido": "Gómez", "puesto": "Vendedora"},
+    {"id": 3, "nombre": "Roberto", "apellido": "Torres", "puesto": "Supervisor"},
+    {"id": 4, "nombre": "Fabricio", "apellido": "Ahumada", "puesto": "Vendedor"}
+  ]
